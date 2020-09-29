@@ -10,7 +10,9 @@
 
 本教程现在还非常不完善，我会尽量完善，并在GitHub永久免费开源。~~毕竟多一个财务自由的人很可能就多一个给我打赏的人~~
 
-目录：[GitHub在线阅读](SUMMARY.md)
+[GitHub地址](https://github.com/fawdlstty/ProgrammerFinancialFreedom)
+
+[在线阅读](https://111.230.39.240/freedom/index.html)
 
 ---
 
