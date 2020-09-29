@@ -12,7 +12,7 @@
 
 [GitHub地址](https://github.com/fawdlstty/ProgrammerFinancialFreedom)
 
-[在线阅读](https://111.230.39.240/freedom/index.html)
+[在线阅读](https://www.fawdlstty.com/freedom/index.html)
 
 ---
 
