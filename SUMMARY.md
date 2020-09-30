@@ -2,7 +2,7 @@
 
 - [介绍](README.md)
 - [第零部分 转变思维](part0/README.md)
-	+ [0.沾上铜臭味](part0/topical0.md)
+	+ [0.更积极的金钱观](part0/topical0.md)
 	+ [1.学习赚钱套路](part0/topical1.md)
 - [第一部分 工作目标](part1/README.md)
 	+ [0.为什么我总遇不到好伯乐](part1/topical0.md)

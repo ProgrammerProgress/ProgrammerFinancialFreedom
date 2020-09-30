@@ -10,6 +10,14 @@
 
 本教程现在还非常不完善，我会尽量完善，并在GitHub永久免费开源。~~毕竟多一个财务自由的人很可能就多一个给我打赏的人~~
 
+<!--
+TODO: 
+关于外快的章节
+点明主题“自由”
+二手房市
+诱导他人付费
+-->
+
 [GitHub地址](https://github.com/fawdlstty/ProgrammerFinancialFreedom)
 
 [在线阅读](https://www.fawdlstty.com/freedom/index.html)
