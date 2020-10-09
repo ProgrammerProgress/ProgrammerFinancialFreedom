@@ -21,4 +21,5 @@
 	+ [4.期货](part3/topical4.md)
 - [第四部分 创业](part4/README.md)
 	+ [0.机遇与风口](part4/topical0.md)
-	+ [1.具体实施](part4/topical1.md)
+	+ [1.为什么选择这个项目](part4/topical1.md)<!--+ [2.项目价值（网络）](part4/topical2.md)-->
+	+ [9.具体实施](part4/topical9.md)
